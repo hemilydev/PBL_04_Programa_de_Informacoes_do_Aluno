@@ -1,4 +1,4 @@
-# PBL 04 - Programa de Informações do Aluno  
+# Programa de Informações do Aluno  
 Este projeto contém um código em Java que coleta, processa e exibe informações de dois alunos:  
 - Nome e matrícula de cada aluno  
 - Notas de Grau 1 e Grau 2  
